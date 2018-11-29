@@ -1,0 +1,14 @@
+.timeContainer {
+    text-align: center;
+}
+.timeInnerContainer {
+    display: inline-block;
+}
+.timeDigits {
+    font-size: 4em;
+}
+.timeText {
+    display: flex;
+    justify-content: space-around;
+    color: grey;
+}
